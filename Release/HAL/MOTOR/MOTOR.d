@@ -1,0 +1,9 @@
+HAL/MOTOR/MOTOR.o HAL/MOTOR/MOTOR.o: ../HAL/MOTOR/MOTOR.c \
+  ../HAL/MOTOR/Motor.h ../HAL/MOTOR/../../LIB/STD_TYPES.h \
+  ../HAL/MOTOR/../../MCAL/DIO/DIO.h
+
+../HAL/MOTOR/Motor.h:
+
+../HAL/MOTOR/../../LIB/STD_TYPES.h:
+
+../HAL/MOTOR/../../MCAL/DIO/DIO.h:
