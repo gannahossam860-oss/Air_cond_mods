@@ -17,4 +17,4 @@ The system receives activation commands via UART, displays real-time temperature
 - **EEPROM Storage**: Saves LED states and mode for persistence
 - **Hardware Simulation**: Complete Proteus simulation included
 
-## there Simulation Video uplouded to show how the system works
+## there is Simulation Video uplouded to show how the system works
